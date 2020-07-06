@@ -1,0 +1,20 @@
+﻿  Vector2f.cpp
+c:\users\andrew hemming\onedrive\simulationloop_2017-18\simulationloop_2017-18\simulationloop\vector2f.cpp(62): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  TextureLoader.cpp
+c:\users\andrew hemming\onedrive\simulationloop_2017-18\simulationloop_2017-18\simulationloop\textureloader.cpp(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  Sphere.cpp
+  Vector3f.cpp
+c:\users\andrew hemming\onedrive\simulationloop_2017-18\simulationloop_2017-18\simulationloop\vector3f.cpp(69): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Plane.cpp
+  main.cpp
+c:\users\andrew hemming\onedrive\simulationloop_2017-18\simulationloop_2017-18\simulationloop\console.h(10): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(242): note: see declaration of 'freopen'
+c:\users\andrew hemming\onedrive\simulationloop_2017-18\simulationloop_2017-18\simulationloop\console.h(11): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(242): note: see declaration of 'freopen'
+  Game.cpp
+  ContactManifold.cpp
+  Generating Code...
+ContactManifold.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  SimulationLoop.vcxproj -> C:\Users\Andrew Hemming\OneDrive\SimulationLoop_2017-18\SimulationLoop_2017-18\Debug\SimulationLoop.exe
+  SimulationLoop.vcxproj -> C:\Users\Andrew Hemming\OneDrive\SimulationLoop_2017-18\SimulationLoop_2017-18\Debug\SimulationLoop.pdb (Full PDB)

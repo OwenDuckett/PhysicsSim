@@ -1,0 +1,32 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Vector2f.cpp
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Vector2f.cpp(62,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  TextureLoader.cpp
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\TextureLoader.cpp(26,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(207): message : see declaration of 'fopen'
+  Sphere.cpp
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Sphere.cpp(1200,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Sphere.cpp(1218,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Sphere.cpp(1272,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Sphere.cpp(1294,20): warning C4305: 'argument': truncation from 'double' to 'float'
+  Vector3f.cpp
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Vector3f.cpp(69,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Plane.cpp
+  main.cpp
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Console.h(10,1): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(242): message : see declaration of 'freopen'
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Console.h(11,1): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(242): message : see declaration of 'freopen'
+  Game.cpp
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Game.cpp(118,18): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Game.cpp(118,18): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Game.cpp(142,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Game.cpp(148,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Game.cpp(157,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Game.cpp(166,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ContactManifold.cpp
+  Circle.cpp
+  Generating Code...
+C:\Users\mo1s\Desktop\PhysicsSim\SimulationLoop\Sphere.cpp(1021): warning C4715: 'Sphere::CollisionTestWithPlane': not all control paths return a value
+Circle.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  SimulationLoop.vcxproj -> C:\Users\mo1s\Desktop\PhysicsSim\Debug\SimulationLoop.exe
